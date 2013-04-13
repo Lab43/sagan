@@ -37,7 +37,7 @@ projects[] = imce_plupload
 projects[] = imce_wysiwyg
 projects[] = insert
 ; dev version required to allow different jQuery versions in admin areas http://drupal.org/node/1524944
-projects[jquery_update] = 7.x-2.x-dev
+projects[jquery_update] = 2.x-dev
 projects[] = less
 projects[] = libraries
 projects[] = link
@@ -60,7 +60,7 @@ projects[] = views
 projects[] = views_rss
 projects[] = views_simple_pager
 ; dev version required for CKEditor 4 support http://drupal.org/node/1853550
-projects[wysiwyg] = 7.x-2.x-dev
+projects[wysiwyg] = 2.x-dev
 
 
 
