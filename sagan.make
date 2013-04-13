@@ -36,7 +36,8 @@ projects[] = imce
 projects[] = imce_plupload
 projects[] = imce_wysiwyg
 projects[] = insert
-projects[] = jquery_update
+; dev version required to allow different jQuery versions in admin areas
+projects[jquery_update] = 7.x-2.x-dev
 projects[] = less
 projects[] = libraries
 projects[] = link
@@ -58,7 +59,8 @@ projects[] = touch_icons
 projects[] = views
 projects[] = views_rss
 projects[] = views_simple_pager
-projects[] = wysiwyg
+; dev version required for CKEditor 4 support
+projects[wysiwyg] = 7.x-2.x-dev
 
 
 
