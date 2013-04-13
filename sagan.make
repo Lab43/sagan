@@ -53,6 +53,7 @@ projects[] = override_node_options
 projects[] = pathauto
 projects[] = plupload
 projects[] = prod_check
+projects[] = redirect
 projects[] = rss_field_formatters
 projects[] = strongarm
 projects[] = timezone_picker
