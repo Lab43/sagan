@@ -31,6 +31,7 @@ projects[] = filefield_sources
 projects[] = filefield_sources_plupload
 projects[] = fitvids
 projects[] = fontyourface
+projects[] = gaugesapp
 projects[] = google_analytics
 projects[] = image_field_caption
 projects[] = imce
