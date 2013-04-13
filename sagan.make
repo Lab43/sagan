@@ -47,6 +47,7 @@ projects[] = markdown
 projects[] = media
 projects[] = media_vimeo
 projects[] = media_youtube
+projects[] = metatag
 projects[] = node_page_disable
 projects[] = override_node_options
 projects[] = pathauto
