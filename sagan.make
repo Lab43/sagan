@@ -46,7 +46,8 @@ projects[less] = 3.x-dev
 projects[] = libraries
 projects[] = link
 projects[] = markdown
-projects[] = media
+; 2.x version is where all new development is happenning. 1.x is at feature freeze
+projects[media] = 2.x-dev
 projects[] = media_vimeo
 projects[] = media_youtube
 projects[] = metatag
