@@ -48,7 +48,8 @@ projects[] = link
 projects[] = markdown
 ; 2.x version is where all new development is happenning. 1.x is at feature freeze
 projects[media] = 2.x-dev
-projects[] = media_vimeo
+; 2.x version is required to work with Media 2.x
+projects[media_vimeo] = 2.x-dev
 projects[] = media_youtube
 projects[] = metatag
 projects[] = node_page_disable
