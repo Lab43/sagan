@@ -25,6 +25,7 @@ projects[] = disable_css
 projects[] = ds
 projects[] = entity
 projects[] = epsacrop
+projects[] = exclude_node_title
 projects[] = features
 projects[] = field_collection
 projects[] = field_group
