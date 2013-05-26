@@ -9,9 +9,9 @@ projects[] = drupal
 
 
 
-; =======
-; Modules
-; =======
+; ===============
+; Contrib Modules
+; ===============
 
 projects[] = admin_menu
 projects[] = backup_migrate
@@ -57,6 +57,7 @@ projects[] = metatag
 projects[] = node_page_disable
 projects[] = override_node_options
 projects[] = pathauto
+projects[] = pathologic
 projects[] = plupload
 projects[] = prod_check
 projects[] = redirect
@@ -72,6 +73,16 @@ projects[] = views_simple_pager
 ; dev version required for CKEditor 4 support http://drupal.org/node/1853550
 projects[wysiwyg] = 2.x-dev
 projects[] = xmlsitemap
+
+
+
+; ==============
+; Custom Modules
+; ==============
+
+projects[aegir_pathologic_files][type] = module
+projects[aegir_pathologic_files][download][type] = git
+projects[aegir_pathologic_files][download][url] = "git://github.com/Lab43/aegir-pathologic-files.git"
 
 
 
