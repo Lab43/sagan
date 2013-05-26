@@ -16,6 +16,7 @@ projects[] = drupal
 projects[] = admin_menu
 projects[] = backup_migrate
 projects[] = better_formats
+projects[] = block_class
 projects[] = caption_filter
 projects[] = copyright_block
 projects[] = ctools
