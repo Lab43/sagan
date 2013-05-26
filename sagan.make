@@ -17,7 +17,8 @@ projects[] = admin_menu
 projects[] = backup_migrate
 projects[] = better_formats
 projects[] = block_class
-projects[] = caption_filter
+; dev version required to fix this error: http://drupal.org/node/1402056
+projects[caption_filter] = 1.x-dev
 projects[] = copyright_block
 projects[] = ctools
 projects[] = date
