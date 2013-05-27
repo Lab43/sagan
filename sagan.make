@@ -15,6 +15,8 @@ projects[] = drupal
 
 projects[] = admin_menu
 projects[] = backup_migrate
+; there currently is no stable release
+projects[backup_migrate_files] = 1.x-dev
 projects[] = better_formats
 projects[] = block_class
 ; dev version required to fix this error: http://drupal.org/node/1402056
