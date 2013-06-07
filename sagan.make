@@ -94,18 +94,27 @@ projects[aegir_pathologic_files][download][url] = "git://github.com/Lab43/aegir-
 ; Libraries
 ; =========
 
+; Amazon S3 PHP Class
+libraries[plupload][download][url] = "https://github.com/tpyo/amazon-s3-php-class.git"
+libraries[plupload][download][type] = "git"
+libraries[plupload][destination] = "libraries"
+
+; CKEditor
 libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%204.1/ckeditor_4.1_standard.zip"
 libraries[ckeditor][download][type] = "file"
 libraries[ckeditor][destination] = "libraries"
 
+; FitVids
 libraries[fitvids][download][url] = "https://github.com/davatron5000/FitVids.js.git"
 libraries[fitvids][download][type] = "git"
 libraries[fitvids][destination] = "libraries"
 
+; lessphp
 libraries[lessphp][download][url] = "http://leafo.net/lessphp/src/lessphp-0.3.9.tar.gz"
 libraries[lessphp][download][type] = "file"
 libraries[lessphp][destination] = "libraries"
 
+; Plupload
 libraries[plupload][download][url] = "http://plupload.com/downloads/plupload_1_5_7.zip"
 libraries[plupload][download][type] = "file"
 libraries[plupload][destination] = "libraries"
