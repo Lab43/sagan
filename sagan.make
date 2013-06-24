@@ -94,6 +94,11 @@ projects[aegir_pathologic_files][download][url] = "git://github.com/Lab43/aegir-
 ; Libraries
 ; =========
 
+; Amazon S3 PHP Class
+libraries[s3-php5-curl][download][url] = "https://github.com/tpyo/amazon-s3-php-class.git"
+libraries[s3-php5-curl][download][type] = "git"
+libraries[s3-php5-curl][destination] = "libraries"
+
 ; CKEditor
 libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%204.1/ckeditor_4.1_standard.zip"
 libraries[ckeditor][download][type] = "file"
