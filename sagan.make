@@ -28,6 +28,7 @@ projects[] = date
 projects[] = devel
 projects[] = disable_css
 projects[] = ds
+projects[] = easy_breadcrumb
 projects[] = entity
 projects[] = epsacrop
 projects[] = exclude_node_title
