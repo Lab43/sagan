@@ -48,8 +48,7 @@ projects[] = imce_wysiwyg
 projects[] = insert
 ; dev version required to allow different jQuery versions in admin areas http://drupal.org/node/1524944
 projects[jquery_update] = 2.x-dev
-; 3.x version required for live reloading and correct @import paths.
-projects[less] = 3.0-rc1
+projects[] = less
 projects[] = libraries
 projects[] = link
 projects[] = markdown
