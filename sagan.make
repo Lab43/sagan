@@ -110,6 +110,16 @@ libraries[fitvids][download][url] = "https://github.com/davatron5000/FitVids.js.
 libraries[fitvids][download][type] = "git"
 libraries[fitvids][destination] = "libraries"
 
+; Jcrop
+libraries[Jcrop][download][url] = "https://jcrop.googlecode.com/files/jquery.Jcrop-0.9.8.zip"
+libraries[Jcrop][download][type] = "file"
+libraries[Jcrop][destination] = "libraries"
+
+; json2
+libraries[json2][download][url] = "https://github.com/douglascrockford/JSON-js.git"
+libraries[json2][download][type] = "git"
+libraries[json2][destination] = "libraries"
+
 ; lessphp
 libraries[lessphp][download][url] = "http://leafo.net/lessphp/src/lessphp-0.3.9.tar.gz"
 libraries[lessphp][download][type] = "file"
