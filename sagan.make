@@ -116,6 +116,11 @@ libraries[Jcrop][download][url] = "https://jcrop.googlecode.com/files/jquery.Jcr
 libraries[Jcrop][download][type] = "file"
 libraries[Jcrop][destination] = "libraries"
 
+; jQuery Cycle
+libraries[jquery.cycle][download][url] = "http://malsup.github.com/jquery.cycle.all.js"
+libraries[jquery.cycle][download][type] = "file"
+libraries[jquery.cycle][destination] = "libraries"
+
 ; json2
 libraries[json2][download][url] = "https://github.com/douglascrockford/JSON-js.git"
 libraries[json2][download][type] = "git"
