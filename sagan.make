@@ -75,6 +75,7 @@ projects[] = touch_icons
 projects[] = views
 projects[] = views_rss
 projects[] = views_simple_pager
+projects[] = views_slideshow
 ; dev version required for CKEditor 4 support http://drupal.org/node/1853550
 projects[wysiwyg] = 2.x-dev
 projects[] = xmlsitemap
