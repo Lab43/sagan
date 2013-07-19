@@ -61,6 +61,8 @@ projects[media] = 2.x-dev
 ; 2.x version is required to work with Media 2.x
 projects[media_vimeo] = 2.x-dev
 projects[] = media_youtube
+projects[] = menu_block
+projects[] = menu_position
 projects[] = metatag
 projects[] = node_page_disable
 projects[] = override_node_options
