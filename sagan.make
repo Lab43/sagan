@@ -23,6 +23,8 @@ projects[] = better_formats
 projects[] = block_class
 ; dev version required to fix this error: http://drupal.org/node/1402056
 projects[caption_filter] = 1.x-dev
+projects[] = context
+projects[] = context_entity_field
 projects[] = copyright_block
 projects[] = ctools
 projects[] = date
