@@ -41,6 +41,7 @@ projects[] = features
 projects[] = field_collection
 projects[] = field_group
 projects[] = file_entity
+projects[] = filefield_paths
 projects[] = filefield_sources
 projects[] = filefield_sources_plupload
 projects[] = fitvids
