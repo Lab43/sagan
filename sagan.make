@@ -14,7 +14,6 @@ projects[] = drupal
 ; ===============
 
 projects[] = admin_menu
-projects[] = advanced_menu
 projects[] = backup_migrate
 ; there currently is no stable release
 projects[backup_migrate_files] = 1.x-dev
