@@ -83,6 +83,7 @@ projects[] = title
 projects[] = token
 projects[] = touch_icons
 projects[] = views
+projects[] = views_field_view
 projects[] = views_rss
 projects[] = views_simple_pager
 projects[] = views_slideshow
