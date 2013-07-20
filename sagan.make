@@ -65,6 +65,7 @@ projects[media_vimeo] = 2.x-dev
 projects[] = media_youtube
 projects[] = menu_block
 projects[] = metatag
+projects[] = multiple_selects
 projects[] = node_page_disable
 projects[] = override_node_options
 projects[] = pathauto
