@@ -57,6 +57,7 @@ projects[] = insert
 projects[jquery_update] = 2.x-dev
 projects[] = less
 projects[] = libraries
+projects[] = lightbox2
 projects[] = link
 projects[] = markdown
 ; 2.x version is where all new development is happenning. 1.x is at feature freeze
