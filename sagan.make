@@ -70,6 +70,7 @@ projects[] = plupload
 projects[] = prod_check
 projects[] = redirect
 projects[] = rss_field_formatters
+projects[] = smart_trim
 projects[] = strongarm
 projects[] = timezone_picker
 projects[] = title
