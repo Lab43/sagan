@@ -23,6 +23,7 @@ projects[] = block_class
 projects[] = block_titlelink
 ; dev version required to fix this error: http://drupal.org/node/1402056
 projects[caption_filter] = 1.x-dev
+projects[] = cer
 projects[] = context
 projects[] = context_entity_field
 projects[] = copyright_block
@@ -33,6 +34,7 @@ projects[] = disable_css
 projects[] = ds
 projects[] = easy_breadcrumb
 projects[] = entity
+projects[] = entityreference
 projects[] = epsacrop
 projects[] = exclude_node_title
 projects[] = features
