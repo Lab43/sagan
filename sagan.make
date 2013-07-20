@@ -20,6 +20,7 @@ projects[backup_migrate_files] = 1.x-dev
 projects[] = backup_migrate_prune
 projects[] = better_formats
 projects[] = block_class
+projects[] = block_titlelink
 ; dev version required to fix this error: http://drupal.org/node/1402056
 projects[caption_filter] = 1.x-dev
 projects[] = context
