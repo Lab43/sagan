@@ -29,6 +29,7 @@ projects[] = context_entity_field
 projects[] = copyright_block
 projects[] = ctools
 projects[] = date
+projects[] = date_popup_authored
 projects[] = devel
 projects[] = disable_css
 projects[] = ds
@@ -68,7 +69,9 @@ projects[] = menu_block
 projects[] = metatag
 projects[] = multiple_selects
 projects[] = node_page_disable
+; dev version required for it to work with Date Popup Authured module https://drupal.org/node/1090696
 projects[] = override_node_options
+projects[override_node_options] = 1.x-dev
 projects[] = pathauto
 projects[] = pathologic
 projects[] = plupload
