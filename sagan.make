@@ -18,7 +18,8 @@ projects[] = backup_migrate
 ; there currently is no stable release
 projects[backup_migrate_files] = 1.x-dev
 projects[] = backup_migrate_prune
-projects[] = better_formats
+; dev version required to fix this error: https://drupal.org/node/1717470
+projects[better_formats] = 1.x-dev
 projects[] = block_class
 projects[] = block_titlelink
 ; dev version required to fix this error: http://drupal.org/node/1402056
