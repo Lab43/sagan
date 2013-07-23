@@ -76,6 +76,8 @@ projects[override_node_options] = 1.x-dev
 projects[] = pathauto
 projects[] = pathologic
 projects[] = plupload
+; dev version required for anonymous users to vote https://drupal.org/node/1217670
+projects[plus1] = 1.x-dev
 projects[] = prod_check
 projects[] = redirect
 projects[] = rss_field_formatters
@@ -90,6 +92,7 @@ projects[] = views_field_view
 projects[] = views_rss
 projects[] = views_simple_pager
 projects[] = views_slideshow
+projects[] = votingapi
 ; dev version required for CKEditor 4 support http://drupal.org/node/1853550
 projects[wysiwyg] = 2.x-dev
 projects[] = xmlsitemap
