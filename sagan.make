@@ -33,6 +33,7 @@ projects[] = date
 projects[] = date_popup_authored
 projects[] = devel
 projects[] = disable_css
+projects[] = disqus
 projects[] = ds
 projects[] = easy_breadcrumb
 projects[] = entity
