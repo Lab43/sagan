@@ -83,6 +83,7 @@ projects[] = redirect
 projects[] = rss_field_formatters
 projects[] = smart_trim
 projects[] = strongarm
+projects[] = textformatter
 projects[] = timezone_picker
 projects[] = title
 projects[] = token
