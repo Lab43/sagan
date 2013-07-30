@@ -25,6 +25,8 @@ projects[] = block_titlelink
 ; dev version required to fix this error: http://drupal.org/node/1402056
 projects[caption_filter] = 1.x-dev
 projects[] = cer
+; there is currently no stable release https://drupal.org/node/1551504
+projects[conditional_fields] = 3.x-dev
 projects[] = context
 projects[] = context_entity_field
 projects[] = copyright_block
