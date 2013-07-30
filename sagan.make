@@ -94,6 +94,8 @@ projects[] = views_rss
 projects[] = views_simple_pager
 projects[] = views_slideshow
 projects[] = votingapi
+; 4.0 branch is where all the new development is happening
+projects[webform] = 4.0-alpha9
 ; dev version required for CKEditor 4 support http://drupal.org/node/1853550
 projects[wysiwyg] = 2.x-dev
 projects[] = xmlsitemap
