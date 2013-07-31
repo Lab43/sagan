@@ -69,6 +69,7 @@ projects[media] = 2.x-dev
 ; 2.x version is required to work with Media 2.x
 projects[media_vimeo] = 2.x-dev
 projects[] = media_youtube
+projects[] = menu_attributes
 projects[] = menu_block
 projects[] = metatag
 projects[] = multiple_selects
