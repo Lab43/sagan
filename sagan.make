@@ -59,7 +59,8 @@ projects[] = imce_wysiwyg
 projects[] = insert
 ; dev version required to allow different jQuery versions in admin areas http://drupal.org/node/1524944
 projects[jquery_update] = 2.x-dev
-projects[] = less
+; dev version required to fix this bug: https://drupal.org/node/2048275
+projects[less] = 3.x-dev
 projects[] = libraries
 projects[] = lightbox2
 projects[] = link
