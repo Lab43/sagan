@@ -77,6 +77,7 @@ projects[] = multiple_selects
 projects[] = node_page_disable
 ; dev version required for it to work with Date Popup Authured module https://drupal.org/node/1090696
 projects[override_node_options] = 1.x-dev
+projects[] = page_title
 projects[] = pathauto
 projects[] = pathologic
 projects[] = plupload
