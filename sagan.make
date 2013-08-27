@@ -36,6 +36,7 @@ projects[] = date
 projects[] = date_popup_authored
 projects[] = devel
 projects[] = disable_css
+projects[] = disable_term_node_listings
 projects[] = disqus
 projects[] = ds
 projects[] = easy_breadcrumb
