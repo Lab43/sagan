@@ -97,6 +97,7 @@ projects[] = timezone_picker
 projects[] = title
 projects[] = token
 projects[] = touch_icons
+projects[] = user_settings_access
 projects[] = views
 projects[] = views_field_view
 projects[] = views_rss
