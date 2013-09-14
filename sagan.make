@@ -132,7 +132,7 @@ libraries[s3-php5-curl][download][type] = "git"
 libraries[s3-php5-curl][destination] = "libraries"
 
 ; CKEditor
-libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%204.2/ckeditor_4.2_standard.zip"
+libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%204.2.1/ckeditor_4.2.1_standard.zip"
 libraries[ckeditor][download][type] = "file"
 libraries[ckeditor][destination] = "libraries"
 
