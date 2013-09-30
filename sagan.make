@@ -157,7 +157,7 @@ libraries[json2][download][type] = "git"
 libraries[json2][destination] = "libraries"
 
 ; lessphp
-libraries[lessphp][download][url] = "http://leafo.net/lessphp/src/lessphp-0.3.9.tar.gz"
+libraries[lessphp][download][url] = "http://leafo.net/lessphp/src/lessphp-0.4.0.tar.gz"
 libraries[lessphp][download][type] = "file"
 libraries[lessphp][destination] = "libraries"
 
