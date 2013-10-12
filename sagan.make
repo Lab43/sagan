@@ -83,10 +83,6 @@ projects[override_node_options] = 1.x-dev
 projects[] = pathauto
 projects[] = pathologic
 projects[] = plupload
-; dev version required for anonymous users to vote https://drupal.org/node/1217670
-projects[plus1] = 1.x-dev
-; patch allows users to un-vote
-projects[plus1][patch][] = "https://drupal.org/files/plus1-fix_undo-1927056-3.patch"
 projects[] = prod_check
 projects[] = redirect
 projects[] = rss_field_formatters
@@ -103,7 +99,6 @@ projects[] = views_field_view
 projects[] = views_rss
 projects[] = views_simple_pager
 projects[] = views_slideshow
-projects[] = votingapi
 ; 4.0 branch is where all the new development is happening
 projects[webform] = 4.0-alpha9
 ; dev version required for CKEditor 4 support http://drupal.org/node/1853550
