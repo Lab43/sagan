@@ -86,7 +86,7 @@ projects[] = plupload
 ; dev version required for anonymous users to vote https://drupal.org/node/1217670
 projects[plus1] = 1.x-dev
 ; patch allows users to un-vote
-projects[plus][patch][] = "https://drupal.org/files/plus1-fix_undo-1927056-3.patch"
+projects[plus1][patch][] = "https://drupal.org/files/plus1-fix_undo-1927056-3.patch"
 projects[] = prod_check
 projects[] = redirect
 projects[] = rss_field_formatters
