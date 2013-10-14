@@ -23,6 +23,8 @@ projects[] = backup_migrate_prune
 projects[better_formats] = 1.x-dev
 projects[] = block_class
 projects[] = block_titlelink
+; 2.x version is required to clone Content Types, and it's only available as dev
+projects[bundle_copy] = 2.x-dev
 ; dev version required to fix this error: http://drupal.org/node/1402056
 projects[caption_filter] = 1.x-dev
 projects[] = cer
