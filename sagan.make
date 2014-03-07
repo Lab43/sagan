@@ -98,6 +98,8 @@ projects[] = token
 projects[] = touch_icons
 projects[] = user_settings_access
 projects[] = views
+; there is currently no stable 7.x release
+projects[views_datasource] = 1.x-dev
 projects[] = views_field_view
 projects[] = views_rss
 projects[] = views_simple_pager
